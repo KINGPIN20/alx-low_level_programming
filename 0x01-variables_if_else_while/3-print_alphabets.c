@@ -2,7 +2,7 @@
 
 /**
  * main - prints upper and lower case
- * return: always 0 (success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
