@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
-/* program will assign a random number to the variable n */
 
-/* main - assign +/- value for n
- * return: 0
+/**
+ * main - assign +/- value for n
+ * Return: 0
  */
 
 int main(void)
