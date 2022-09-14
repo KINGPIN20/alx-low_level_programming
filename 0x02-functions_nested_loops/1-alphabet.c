@@ -1,16 +1,17 @@
-#include "stdio.h"
+#include "main.h"
 
 /**
-*prints the alphabet, in lowercase, followed by a new line
-*Return: 0
-*/
-
-int main(void)
+ * main - check the code for Holberton School students.
+ *
+ * Return: Always 0.
+ */
+void print_alphabet(void)
 {
-	int c;
-for (c = 97; c <= 122; c++)
-{
-putchar(c);
+	char c;
+for (c == a; c <= z; c++)
+{	
+	print_alphabet(c);
+	putchar('\n');
+	return (0);
 }
-putchar('\n');
 }
