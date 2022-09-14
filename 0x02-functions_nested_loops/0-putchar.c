@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
 * main - prints _putchar with a new line
@@ -10,4 +10,4 @@ int main(void)
 {
 	printf("_putchar\n");
 	return (0);
-}
+g
